@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="button">Сделать фото</string>
+    <string name="textNameNone">Напишите своё имя в поле</string>
+    <string name="makePhotoError">Не могу сделать фото</string>
+</resources>
